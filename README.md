@@ -1,10 +1,10 @@
-# Wiki Stats
+# WikiStats
 
 A premium, privacy-first browser extension to track your Wikipedia reading journey, visualize connections, and discover your personal information universe.
 
 ## Problem
 
-Wikipedia exploration is often fragmented. Readers dive into rabbit holes and lose the thread of their learning journey, with no way to visualize connections or revisit the paths that led them to discovery. Wiki Stats bridges this gap by turning your curiosity into a cohesive, structured insights engine.
+Wikipedia exploration is often fragmented. Readers dive into rabbit holes and lose the thread of their learning journey, with no way to visualize connections or revisit the paths that led them to discovery. WikiStats bridges this gap by turning your curiosity into a cohesive, structured insights engine.
 
 ## Features
 
@@ -22,8 +22,8 @@ Wikipedia exploration is often fragmented. Readers dive into rabbit holes and lo
 
 ---
 
+- [Changelog](./CHANGELOG.md)
 - [Security](SECURITY.md)
 - [License](LICENSE)
 
 Created by [Ryan Hanna](https://github.com/ryanphanna) | [ryanisnota.pro](https://ryanisnota.pro)
-
